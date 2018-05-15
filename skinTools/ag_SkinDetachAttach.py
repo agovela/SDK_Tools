@@ -1,5 +1,6 @@
 # -= ag_SkinDetachAttach.py =-
 #                  by Antonio Govela
+#				   agovela@yahoo.com
 #         ________                   .__          
 #_____   /  _____/  _______  __ ____ |  | _____   
 #\__  \ /   \  ___ /  _ \  \/ // __ \|  | \__  \  
