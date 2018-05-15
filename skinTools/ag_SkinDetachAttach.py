@@ -62,7 +62,19 @@
 #     ___________________
 # - -/__ Requirements __/- - - - - - - - - - - - - - - - - - - - - - - - - - 
 # 
+# The scene must be saved to be able to write the xml file
 # This scripts runs in stand alone mode, no other utilities are required
+#
+#
+#Find the script useful?
+#Donate for a coup of coffee ??
+#Thanks!
+#
+#BTC: 	1JiYcqaE9ShDuJY7XQozmqAFbzU6mK3mw8
+#ETH:	0x11b9d22b4890bf074343ac5bc3dea5b74cde4e4a
+#LTC:	LKstNMi6cm1THsqQG7AB4oFHtUyEmm8qyZ
+#
+#
 #                                                             __________
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - /_ Enjoy! _/- - -
 
