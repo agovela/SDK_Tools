@@ -55,7 +55,8 @@
 #     ____________
 # - -/__ Video __/- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # 
-# 
+# https://vimeo.com/269980935
+# https://vimeo.com/269959153
 #     _________
 # - -/__ Ui __/- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Simple UI, did not want to overcomplicate things
@@ -74,6 +75,7 @@
 #BTC: 	1JiYcqaE9ShDuJY7XQozmqAFbzU6mK3mw8
 #ETH:	0x11b9d22b4890bf074343ac5bc3dea5b74cde4e4a
 #LTC:	LKstNMi6cm1THsqQG7AB4oFHtUyEmm8qyZ
+#BCH:   17zpVBLuEyTTCUQtRxddXX7B3txira3pvu
 #
 #
 #                                                             __________
